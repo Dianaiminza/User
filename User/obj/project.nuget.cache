@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuHCEnFz2K0ntsvCtX6d5NgSq8lHS/2+9JyAygOyQfqM/Vf0T+vNjVbvuOTzSTp+PV98ftND1eKrurrUO7sySQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diana\\source\\repos\\User\\User\\User.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
